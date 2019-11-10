@@ -1,0 +1,1 @@
+var linkText = document.querySelector("#Text").innerText
